@@ -1,0 +1,4 @@
+Week 1 topics include:
+- Python Basics
+- Variables
+- Data Types

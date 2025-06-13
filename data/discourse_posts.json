@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Clarification on week 2 GA",
+    "link": "https://discourse.onlinedegree.iitm.ac.in/t/ga-week2",
+    "content": "Prof. explained this concept using pandas merge.",
+    "date": "2025-03-20"
+  },
+  {
+    "title": "Week 1 install issues",
+    "link": "https://discourse.onlinedegree.iitm.ac.in/t/install-help",
+    "content": "Use pip install with the --user flag to avoid permission errors.",
+    "date": "2025-01-10"
+  }
+]
+

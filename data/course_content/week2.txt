@@ -1,0 +1,2 @@
+Week 2: Python for Data Science.
+Topics: Numpy, Pandas, DataFrames, matplotlib.
